@@ -1,2 +1,3 @@
-# nextjs-nodejs-example
-Example Project on how to develop and build NEXT.js with NodeJS Backend
+# RECYBOX WEBPAGE
+
+Space for developing awesome frontend and backend for Minko and Kupko
